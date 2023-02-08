@@ -1,1 +1,1 @@
-# Endoscopy-Image-Processing-using-Feature-Fusion
+# Endoscopy Image Processing using Feature Fusion
